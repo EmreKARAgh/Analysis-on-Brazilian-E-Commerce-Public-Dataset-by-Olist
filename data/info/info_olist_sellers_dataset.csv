@@ -1,0 +1,5 @@
+column_name,data_type,null_value_pct,min_value,max_value,distinct_value_cnt
+seller_id,object,0.0,0015a82c2db000af6aaaf3ae2ecb0532,ffff564a4f9085cd26170f4732393726,3095
+seller_zip_code_prefix,int64,0.0,1001,99730,2246
+seller_city,object,0.0,04482255,xaxim,611
+seller_state,object,0.0,AC,SP,23

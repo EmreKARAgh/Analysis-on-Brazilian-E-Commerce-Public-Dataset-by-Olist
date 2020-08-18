@@ -1,0 +1,3 @@
+column_name,data_type,null_value_pct,min_value,max_value,distinct_value_cnt
+product_category_name,object,0.0,agro_industria_e_comercio,utilidades_domesticas,71
+product_category_name_english,object,0.0,agro_industry_and_commerce,watches_gifts,71

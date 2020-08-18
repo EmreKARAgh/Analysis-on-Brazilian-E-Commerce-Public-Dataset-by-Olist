@@ -1,0 +1,6 @@
+column_name,data_type,null_value_pct,min_value,max_value,distinct_value_cnt
+customer_id,object,0.0,00012a2ce6f8dcda20d059ce98491703,ffffe8b65bbe3087b653a978c870db99,99441
+customer_unique_id,object,0.0,0000366f3b9a7992bf8c76cfdf3221e2,ffffd2657e2aad2907e67c3e9daecbeb,96096
+customer_zip_code_prefix,int64,0.0,1003,99990,14994
+customer_city,object,0.0,abadia dos dourados,zortea,4119
+customer_state,object,0.0,AC,TO,27

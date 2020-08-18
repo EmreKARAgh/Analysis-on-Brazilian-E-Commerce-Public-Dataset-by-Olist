@@ -1,0 +1,6 @@
+column_name,data_type,null_value_pct,min_value,max_value,distinct_value_cnt
+geolocation_zip_code_prefix,int64,0.0,1001,99990,19015
+geolocation_lat,float64,0.0,-36.6053744107061,45.06593318269697,717358
+geolocation_lng,float64,0.0,-101.46676644931476,121.10539381057764,717613
+geolocation_city,object,0.0,* cidade,óleo,8011
+geolocation_state,object,0.0,AC,TO,27
